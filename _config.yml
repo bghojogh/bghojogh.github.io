@@ -21,9 +21,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:bghojogh@uwaterloo.ca"}
-  - {title: LinkedIn, icon: github, url: "https://www.linkedin.com/in/benyamin-ghojogh-97423276/"}
-  - {title: Google Scholar, icon: github, url: "https://scholar.google.com/citations?user=U8qAL-0AAAAJ&hl=en"}
-  - {title: ResearchGate, icon: github, url: "https://www.researchgate.net/profile/Benyamin-Ghojogh"}
+#   - {title: LinkedIn, icon: github, url: "https://www.linkedin.com/in/benyamin-ghojogh-97423276/"}
+#   - {title: Google Scholar, icon: github, url: "https://scholar.google.com/citations?user=U8qAL-0AAAAJ&hl=en"}
+#   - {title: ResearchGate, icon: github, url: "https://www.researchgate.net/profile/Benyamin-Ghojogh"}
   - {title: Github, icon: github, url: "https://github.com/bghojogh"}
 
 comments:
