@@ -23,7 +23,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:bghojogh@uwaterloo.ca"}
   - {title: LinkedIn, icon: address-card, url: "https://www.linkedin.com/in/benyamin-ghojogh-97423276/"}
   - {title: Google Scholar, icon: clipboard, url: "https://scholar.google.com/citations?user=U8qAL-0AAAAJ&hl=en"}
-  - {title: ResearchGate, icon: rss, url: "https://www.researchgate.net/profile/Benyamin-Ghojogh"}
+  - {title: ResearchGate, icon: archive, url: "https://www.researchgate.net/profile/Benyamin-Ghojogh"}
   - {title: Github, icon: github, url: "https://github.com/bghojogh"}
 
 comments:
