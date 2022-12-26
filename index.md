@@ -5,6 +5,10 @@ title: "Home"
 
 Welcome to my homepage! I am Benyamin Ghojogh, an engineer, researcher, and scientist in the field of machine learning. 
 
+My textbook "Elements of Dimensionality Reduction and Manifold Learning" is available at: 
+- [Amazon](https://www.amazon.co.uk/Elements-Dimensionality-Reduction-Manifold-Learning/dp/3031106016) 
+- [Google books](https://www.google.ca/books/edition/Elements_of_Dimensionality_Reduction_and/nyM5zwEACAAJ?hl=en&kptab=overview)
+
 In the following, I introduce some of my abilities:
 - About my background and abilities: I have a strong background and experience in machine learning, deep learning, feature extraction, and artificial intelligence. 
 - About my coding: I have a good coding ability. My most expert coding language is Python, but I am also familiar with other languages such as C/C++, Java, and Matlab. I know object-oriented programming. I know how to work with git and group coding. Some of my open/public codes can be observed in [my GitHub page](https://github.com/bghojogh). 
