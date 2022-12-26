@@ -3,7 +3,7 @@ layout: page
 title: "Home"
 ---
 
-Welcome to my homepage! I am Benyamin Ghojogh, an engineer and researcher in the field of machine learning. 
+Welcome to my homepage! I am Benyamin Ghojogh, an engineer, researcher, and scientist in the field of machine learning. 
 
 In the following, I introduce some of my abilities:
 - About my background and abilities: I have a strong background and experience in machine learning, deep learning, feature extraction, and artificial intelligence. 
@@ -12,9 +12,11 @@ In the following, I introduce some of my abilities:
 - About my general abilities: I am very hardworking and enthusiastic. I have worked with various people and teams so far and know how to work with teams. I am also good in presenting and reporting to both peers and public.
 
 In the following, I list some of social pages:
-- [LinedIn](https://www.linkedin.com/in/benyamin-ghojogh-97423276/)
+- [my LinedIn page](https://www.linkedin.com/in/benyamin-ghojogh-97423276/)
+- [my Google Scholar page](https://scholar.google.com/citations?user=U8qAL-0AAAAJ&hl=en)
+- [my ResearchGate page](https://www.researchgate.net/profile/Benyamin-Ghojogh)
+- [my GitHub page](https://github.com/bghojogh)
 
-[Link to a document]({% link pages/uoguelph/engg-6140-w23.md %})
 
 <!-- {% if site.show_excerpts %}
   {% include home.html %}
@@ -25,3 +27,4 @@ In the following, I list some of social pages:
 
 <!-- instruction: -->
 <!-- https://www.youtube.com/watch?v=qZsgPgGdOzQ&list=LL&index=1 -->
+<!-- https://itopaloglu83.github.io/Jekyll-Markdown-Cheat-Sheet/ -->
