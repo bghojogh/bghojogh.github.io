@@ -7,4 +7,4 @@ This is test yet.
 
 [Link to a document]({% link pages/uoguelph/engg-6140-w23.md %})
 
-<!-- [Link to a document]({% link markdowns/teaching4.md %}) -->
+[get the PDF]({{ site.url }}/assets/test_page.pdf)
