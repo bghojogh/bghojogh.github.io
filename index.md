@@ -31,3 +31,4 @@ My textbook "Elements of Dimensionality Reduction and Manifold Learning", publis
 <!-- instruction: -->
 <!-- https://www.youtube.com/watch?v=qZsgPgGdOzQ&list=LL&index=1 -->
 <!-- https://itopaloglu83.github.io/Jekyll-Markdown-Cheat-Sheet/ -->
+<!-- link to local pdf: https://gist.github.com/roachhd/4403507b13dc65dee075 -->
