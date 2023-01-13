@@ -16,6 +16,8 @@ In the following, I list some of social pages:
 - [my Google Scholar page](https://scholar.google.com/citations?user=U8qAL-0AAAAJ&hl=en)
 - [my ResearchGate page](https://www.researchgate.net/profile/Benyamin-Ghojogh)
 - [my GitHub page](https://github.com/bghojogh)
+- [my main Youtube channel](https://www.youtube.com/@bghojogh)
+- [my Youtube channel for my poems](https://www.youtube.com/@poemsofbenyaminghojogh)
 
 My textbook "Elements of Dimensionality Reduction and Manifold Learning", published by Springer, is available at: 
 - [Amazon](https://www.amazon.com/Elements-Dimensionality-Reduction-Manifold-Learning/dp/3031106016/) 
