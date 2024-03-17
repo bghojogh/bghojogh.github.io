@@ -12,12 +12,12 @@ In the following, I introduce some of my abilities:
 - About my general abilities: I am very hardworking and enthusiastic. I have worked with various people and teams so far and know how to work with teams. I am also good in presenting and reporting to both peers and public.
 
 In the following, I list some of social pages:
-- [my LinedIn page](https://www.linkedin.com/in/benyamin-ghojogh-97423276/)
+<!-- - [my LinedIn page](https://www.linkedin.com/in/benyamin-ghojogh-97423276/) -->
 - [my Google Scholar page](https://scholar.google.com/citations?user=U8qAL-0AAAAJ&hl=en)
 - [my ResearchGate page](https://www.researchgate.net/profile/Benyamin-Ghojogh)
 - [my GitHub page](https://github.com/bghojogh)
-- [my main Youtube channel](https://www.youtube.com/@bghojogh)
-- [my Youtube channel for my poems](https://www.youtube.com/@poemsofbenyaminghojogh)
+- [my Youtube channel](https://www.youtube.com/@bghojogh)
+<!-- - [my Youtube channel for my poems](https://www.youtube.com/@poemsofbenyaminghojogh) -->
 
 My textbook "Elements of Dimensionality Reduction and Manifold Learning", published by Springer, is available at: 
 - [Amazon](https://www.amazon.com/Elements-Dimensionality-Reduction-Manifold-Learning/dp/3031106016/) 
