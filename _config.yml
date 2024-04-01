@@ -20,8 +20,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "teaching.md", title: "Teaching"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:bghojogh@uwaterloo.ca"}
-  - {title: LinkedIn, icon: address-card, url: "https://www.linkedin.com/in/benyamin-ghojogh-97423276/"}
   - {title: Google Scholar, icon: clipboard, url: "https://scholar.google.com/citations?user=U8qAL-0AAAAJ&hl=en"}
   - {title: ResearchGate, icon: archive, url: "https://www.researchgate.net/profile/Benyamin-Ghojogh"}
   - {title: Github, icon: github, url: "https://github.com/bghojogh"}
